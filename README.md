@@ -1,6 +1,6 @@
 ## Hi, friend 👋
 
-I'm a finance guy, currently learning how to code (with help from AI, Udemy, and online communities).
+I'm a finance guy, currently learning how to code.
 
 - ⚡️ I’m currently working on [PlayHidoku.com](https://playhidoku.com)
 
